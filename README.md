@@ -4,9 +4,9 @@ Sajed Zaitoun For The back-end section
 Ahmad Domany For The Front section
 To Run this Project you need to install the following:
 
-composer install
-php artisan sanctum:install
-php artisan storage:link
+composer install /n
+php artisan sanctum:install /n
+php artisan storage:link /n
 
 
 npm install
