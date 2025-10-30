@@ -1,8 +1,8 @@
 # E-commerce Project using laravel api  and react #
-Developed By:
-Sajed Zaitoun For The back-end section
-Ahmad Domany For The Front section
-To Run this Project you need to install the following:
+Developed By:  
+Sajed Zaitoun For The back-end section  
+Ahmad Domany For The Front section  
+To Run this Project you need to install the following:  
 
 composer install  
 php artisan sanctum:install   
