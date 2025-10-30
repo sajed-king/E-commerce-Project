@@ -4,12 +4,12 @@ Sajed Zaitoun For The back-end section
 Ahmad Domany For The Front section
 To Run this Project you need to install the following:
 
-composer install /n
-php artisan sanctum:install /n
-php artisan storage:link /n
+composer install  
+php artisan sanctum:install   
+php artisan storage:link  
 
 
-npm install
-npm install react react-dom
-npm install axios
+npm install  
+npm install react react-dom  
+npm install axios  
 
